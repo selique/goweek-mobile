@@ -1,3 +1,3 @@
 # goweek-mobile
 
-Projeto React Native - GoWeek
+Projeto React Native - GoWeek -> Rokectseat
